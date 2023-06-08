@@ -1,0 +1,39 @@
+*{
+    margin:0;
+    padding:0;
+}
+ .header{
+    padding: 80px;
+ }
+.container{
+    max-width: 800px;
+    margin:auto;
+    padding-bottom: 100px;
+    
+}
+.judul{
+    margin-left: 160px;
+}
+
+.cerita{
+    text-align: justify;
+    font-size: 20px;
+}
+
+.ceritakkedua{
+    text-align: justify;
+    font-size: 20px;
+}
+ 
+.gambar{
+    background-image: url(gambarku/demonslayer.jpg);
+    height: 250px;
+    background-size: cover;
+    background-position: 0 -150px;
+}
+
+.ceritaketiga{
+    text-align: justify;
+    font-size: 20px;
+   
+}
